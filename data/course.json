@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "f419fbf1-79c3-90fd-4375-39b4eb546d5b",
+  "instructors": {
+    "content": [
+      "2366cf87-9a99-42a5-1614-90e17729dce1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aa0c4236-9bc0-9b11-f258-a91b3245f612",
+    "website": "1-206j-airline-schedule-planning-spring-2003"
+  },
+  "course_title": "Airline Schedule Planning",
+  "course_description": "Explores a variety of models and optimization techniques for the solution of airline schedule planning and operations problems. Schedule design, fleet assignment, aircraft maintenance routing, crew scheduling, passenger mix, and other topics are covered. Recent models and algorithms addressing issues of model integration, robustness, and operations recovery are introduced. Modeling and solution techniques designed specifically for large-scale problems, and state-of-the-art applications of these techniques to airline problems are detailed.\n",
+  "department_numbers": [
+    "1",
+    "16",
+    "ESD"
+  ],
+  "extra_course_numbers": "16.77J,ESD.215J",
+  "primary_course_number": "1.206J",
+  "course_image_thumbnail": {
+    "content": "2f6c9822-1a22-2d6b-790d-a269c856440b",
+    "website": "1-206j-airline-schedule-planning-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "9b2cdae2-9f0e-4ba5-a6c6-55a4ca90ae26",
+  "site_short_id": "1.206j-spring-2003",
+  "site_url_path": "courses/1-206j-airline-schedule-planning-spring-2003",
+  "title": "Course Metadata"
+}
