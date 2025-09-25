@@ -5,6 +5,8 @@ description: Problem set on Generating Pairings on a Duty-Based Network, and An 
 file: /courses/1-206j-airline-schedule-planning-spring-2003/fc35f87668818fdcde93b0776e9a77fb_assn3.pdf
 file_size: 30211
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
