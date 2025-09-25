@@ -7,6 +7,8 @@ description: This lecture details about background, motivation, our contribution
 file: /courses/1-206j-airline-schedule-planning-spring-2003/9b4d1f907102621e7d420d4b348f95ee_lec14_shan_lan_robust_scheduling.pdf
 file_size: 251268
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
